@@ -1,1 +1,2 @@
 merging is combinging two branch into 1 branch
+merging is done by git merge command
