@@ -1,1 +1,2 @@
 branch is another version of our codebase
+new branch can be created by git checkout -b
